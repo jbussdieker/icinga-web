@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Icinga::Web::VERSION
   gem.authors       = ["Joshua Bussdieker"]
   gem.email         = ["jbussdieker@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Simple API Wrapper for Icinga-Web}
+  gem.summary       = %q{API Wrapper for Icinga-Web}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
